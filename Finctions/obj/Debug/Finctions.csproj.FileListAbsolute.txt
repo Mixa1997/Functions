@@ -1,0 +1,7 @@
+E:\Работы VS\Finctions\bin\Debug\Finctions.exe.config
+E:\Работы VS\Finctions\bin\Debug\Finctions.exe
+E:\Работы VS\Finctions\bin\Debug\Finctions.pdb
+E:\Работы VS\Finctions\obj\Debug\Finctions.csprojAssemblyReference.cache
+E:\Работы VS\Finctions\obj\Debug\Finctions.csproj.CoreCompileInputs.cache
+E:\Работы VS\Finctions\obj\Debug\Finctions.exe
+E:\Работы VS\Finctions\obj\Debug\Finctions.pdb
